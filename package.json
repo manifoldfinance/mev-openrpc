@@ -5,18 +5,40 @@
   "description": "MEV RPC Specification",
   "main": "index.ts",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 0"
+    "test": "echo \"Error: no test specified\" && exit 0",
     "compile": "./build-system/build.sh"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/manifoldfinance/mev-openrpc.git"
   },
-  "keywords": ["mev", "ethereum", "finance", "blockchain", "smart contracts", "flashbots"],
+  "keywords": [
+    "mev",
+    "ethereum",
+    "finance",
+    "blockchain",
+    "smart contracts",
+    "flashbots"
+  ],
   "author": "SEE CONTRIBUTORS",
   "license": "SEE LICENSE IN LICENSE",
   "bugs": {
     "url": "https://github.com/manifoldfinance/mev-openrpc/issues"
   },
-  "homepage": "https://github.com/manifoldfinance/mev-openrpc#readme"
+  "homepage": "https://github.com/manifoldfinance/mev-openrpc#readme",
+  "devDependencies": {
+    "@types/ajv": "^1.0.0",
+    "@types/node": "^14.14.41",
+    "@xops.net/openrpc-cli": "^1.0.2",
+    "ajv": "^8.1.0",
+    "ajv-keywords": "^5.0.0",
+    "eslint": "^7.24.0",
+    "eslint-plugin-json-schema-validator": "^1.0.10",
+    "eslint-plugin-jsonc": "^1.2.1",
+    "node-fetch": "^2.6.1",
+    "prettier": "^2.2.1",
+    "typedoc": "^0.20.35",
+    "typedoc-neo-theme": "^1.1.0",
+    "typescript": "^4.2.4"
+  }
 }
