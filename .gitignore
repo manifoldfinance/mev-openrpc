@@ -1,0 +1,13 @@
+.DS_Store
+build-mevrpc-openrpc.json
+node_modules
+GENERATED-openrpc.json
+build
+dist
+distribution/
+*.tar.gz
+*.zip
+*.tar
+*.tgz
+*.log
+*-error

@@ -1,0 +1,8 @@
+dist/
+distribution/
+*.html
+*.css
+*.scss
+*.d.ts
+build/
+docs/
