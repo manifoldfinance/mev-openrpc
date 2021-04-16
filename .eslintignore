@@ -6,3 +6,7 @@ distribution/
 *.d.ts
 build/
 docs/
+build-system/
+tools/
+utils/
+*.ts
