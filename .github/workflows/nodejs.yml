@@ -34,4 +34,4 @@ jobs:
         run: npm install
 
       - name: Run build
-        run: export exit 0
+        run: npm ci
