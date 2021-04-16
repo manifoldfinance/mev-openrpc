@@ -1,0 +1,22 @@
+{
+  "name": "mev-rpc-spec",
+  "version": "0.0.1",
+  "private": true,
+  "description": "MEV RPC Specification",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+    "compile": "./build-system/build.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manifoldfinance/mev-openrpc.git"
+  },
+  "keywords": ["mev", "ethereum", "finance", "blockchain", "smart contracts", "flashbots"],
+  "author": "SEE CONTRIBUTORS",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/manifoldfinance/mev-openrpc/issues"
+  },
+  "homepage": "https://github.com/manifoldfinance/mev-openrpc#readme"
+}
