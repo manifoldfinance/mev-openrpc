@@ -5,15 +5,11 @@
     "declaration": true,
     "esModuleInterop": true,
     "inlineSources": true,
-    "lib": [
-      "ES2020"
-    ],
+    "lib": ["ES2020"],
     "resolveJsonModule": true,
     "outDir": "distribution",
     "sourceMap": true,
-    "strict": true,
+    "strict": true
   },
-  "include": [
-    "index.ts"
-  ]
+  "include": ["index.ts"]
 }

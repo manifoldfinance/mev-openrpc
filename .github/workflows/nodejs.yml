@@ -1,10 +1,10 @@
 # Nodejs CI Workflow
-name: "MEV RPC API"
+name: 'MEV RPC API'
 on:
   push:
-     paths:
-      - "**/**"
-      - "!**/*.md/**"
+    paths:
+      - '**/**'
+      - '!**/*.md/**'
 
 env:
   CI: true

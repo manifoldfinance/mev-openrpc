@@ -31,9 +31,7 @@
           "value": {
             "chainId": "0x64",
             "chainName": "xDAI Chain",
-            "rpcUrls": [
-              "https://dai.poa.network"
-            ],
+            "rpcUrls": ["https://dai.poa.network"],
             "iconUrls": [
               "https://xdaichain.com/fake/example/url/xdai.svg",
               "https://xdaichain.com/fake/example/url/xdai.png"
@@ -43,9 +41,7 @@
               "symbol": "xDAI",
               "decimals": 18
             },
-            "blockExplorerUrls": [
-              "https://blockscout.com/poa/xdai/"
-            ]
+            "blockExplorerUrls": ["https://blockscout.com/poa/xdai/"]
           }
         }
       ],

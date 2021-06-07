@@ -1,3 +1,3 @@
 # mev-openrpc
 
-` OpenRPC spec for MEV Enabled Clients `
+`OpenRPC spec for MEV Enabled Clients`

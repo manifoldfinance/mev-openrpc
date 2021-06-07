@@ -1,6 +1,6 @@
-   {
-    "type": "array",
-    "items": {
-      "$ref": "./Permission.json"
-    }
+{
+  "type": "array",
+  "items": {
+    "$ref": "./Permission.json"
   }
+}

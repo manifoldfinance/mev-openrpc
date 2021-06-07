@@ -14,9 +14,7 @@
       "schema": {
         "type": "string",
         "description": "Only ERC20 supported. In the future, other standards will be supported",
-        "enum": [
-          "ERC20"
-        ]
+        "enum": ["ERC20"]
       }
     },
     {
