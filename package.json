@@ -1,11 +1,10 @@
 {
-  "name": "mev-rpc-spec",
-  "version": "0.0.1",
+  "name": "openmev",
+  "version": "0.0.2",
   "private": true,
   "description": "MEV RPC Specification",
   "main": "index.ts",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 0",
     "compile": "./build-system/build.sh"
   },
   "repository": {
